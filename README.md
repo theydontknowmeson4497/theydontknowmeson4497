@@ -1,5 +1,4 @@
-## Hi there 👋
-This is Mithun Nair a second year CSE DATA SCIENCE student at SRM Kattankulathur
+## Hi this is Mithun Nair a second year CSE DATA SCIENCE student at SRM Kattankulathur
 
 🌱 I’m currently learning Java and MySQL 
 <!--
