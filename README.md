@@ -1,6 +1,8 @@
-## Hi this is Mithun Nair a second year CSE DATA SCIENCE student at SRM Kattankulathur
-
-🌱 I’m currently learning Java and MySQL 
+## MITHUN NAIR
+- 2nd Year CSE Data Science Student
+- at SRM Kattankulathur
+- languages : c,python,java,html,sql,c++
+- projects : 
 <!--
 **theydontknowmeson4497/theydontknowmeson4497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
