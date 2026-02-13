@@ -1,5 +1,6 @@
 ## Hi there 👋
-This is Mithun Nair a second year CSE DATA SCIENCE student at SRM
+This is Mithun Nair a second year CSE DATA SCIENCE student at SRM Kattankulathur
+🌱 I’m currently learning Java and MySQL 
 <!--
 **theydontknowmeson4497/theydontknowmeson4497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![MasterHead](your image link)](your GitHub link)
