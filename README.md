@@ -8,6 +8,8 @@
 -  2)Food Verse - A Campus Food Review App
 -  3)Book My Stay - A Hotel Application App
 -  4)Smart Campus Lighting System - A Prototype
+-  5)SequelAI - An AI Chatbot inspired by Neural Networks
+-  6)AI Chess Analysis - Alpha-Beta Pruning Algorithm Analysis Chess Movements
 <!--
 **theydontknowmeson4497/theydontknowmeson4497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
