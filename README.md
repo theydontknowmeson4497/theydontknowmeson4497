@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">I'm Mithun Nair</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data Analyst)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
