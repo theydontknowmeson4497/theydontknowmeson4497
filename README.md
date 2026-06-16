@@ -52,14 +52,28 @@ I build things when I'm bored. I debug things when I'm sad. I commit at 2AM when
 
 ## 🚀 Projects
 
-| # | Project | Description | Tech |
-|---|---------|-------------|------|
-| 1 | 🛡️ **Guardian Eye** | Women's Safety Analytics System — real-time threat detection & heatmaps | Python, CV |
-| 2 | 🍔 **Food Verse** | Campus Food Review App — rate, review, and discover food on campus | Java, Android |
-| 3 | 🏨 **Book My Stay** | Hotel Booking Application — full-featured hotel management system | Java, Android |
-| 4 | 💡 **Smart Campus Lighting** | IoT Prototype — adaptive campus lighting using sensor data | Python, Arduino |
-| 5 | 🤖 **SequelAI** | AI Chatbot inspired by Neural Network architectures | Python, ML |
-| 6 | ♟️ **AI Chess Analysis** | Alpha-Beta Pruning Algorithm analyzing optimal chess movements | Python, AI |
+| # | Project | Description | Status |
+|---|---------|-------------|--------|
+| 1 | 🛡️ **Guardian Eye** | Women's Safety Analytics System — real-time threat detection & heatmaps | ✅ Completed |
+| 2 | 📩 **SMS Spam Detection** | ML-based spam classifier using NLP & text features | ✅ Completed |
+| 3 | 📝 **Plagiarism Detection Engine** | Automated engine to detect plagiarism across documents | ✅ Completed |
+| 4 | 🦠 **COVID-19 Notification System** | Real-time COVID-19 alert & notification system | ✅ Completed |
+| 5 | 🍔 **Food Verse** | Campus Canteen Review App — rate, review & discover food on campus | 🔄 Ongoing |
+| 6 | 🏨 **Book My Stay** | Hotel Booking Application — full-featured hotel management system | ✅ Completed |
+| 7 | 💡 **Smart Campus Lighting** | IoT Prototype — adaptive campus lighting using sensor data | ✅ Completed |
+| 8 | 🤖 **SequelAI** | AI Chatbot inspired by Neural Network architectures | ✅ Completed |
+| 9 | ♟️ **AI Chess Analysis** | Alpha-Beta Pruning Algorithm analyzing optimal chess movements | ✅ Completed |
+
+---
+
+## 💼 Work Experience
+
+| 🏢 Organization | 💼 Role | 🔍 Focus Area |
+|----------------|---------|--------------|
+| **Pfizer Pharmaceuticals** — IITM Research Park, Chennai | Data Science Intern | Built SQL databases from molecular PDB files using quantum chemistry; EDA on pharmaceutical datasets with NumPy, Pandas & visualization libraries |
+| **Centre for Intelligent Marine & Energy Systems, SRMIST** | Blockchain Intern | Live simulation of a blockchain security layer over ESP32 wireless mesh networks; front-end visualization of node comms & threat detection |
+| **Dept. of Data Science & Business Systems, SRMIST** | Quantum Research Intern | Quantum ML & latency research — comparing Classical vs. Quantum Self-Attention layers using PyTorch, Qiskit & Qiskit Aer |
+| **SRM MUN Society** | Delegation Head | Led 50+ delegates across 30+ MUN conferences; 19+ Executive Board positions; Best Delegate wins at SRM Ramapuram MUN & Future MUN Christ University Bangalore |
 
 ---
 
