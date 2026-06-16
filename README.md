@@ -105,6 +105,4 @@ I build things when I'm bored. I debug things when I'm sad. I commit at 2AM when
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </p>
 
-<p align="center">
-  ⭐ From <a href="https://github.com/theydontknowmeson4497">theydontknowmeson4497</a> | Happy Coding! 👨‍💻
-</p>
+
