@@ -87,7 +87,7 @@ I build things when I'm bored. I debug things when I'm sad. I commit at 2AM when
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theydontknowmeson4497&custom_title=Contribution%20Graph&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theydontknowmeson4497&custom_title=Contribution%20Graph&bg_color=0d1117&color=00ff41&line=00cc33&point=00ff41&area_color=003300&area=true&hide_border=true&radius=8&theme=react-dark" />
 </p>
 
 ---
@@ -101,8 +101,4 @@ I build things when I'm bored. I debug things when I'm sad. I commit at 2AM when
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=100&section=footer" />
-</p>
-
-<p align="center">
-  ⭐ From <a href="https://github.com/theydontknowmeson4497">theydontknowmeson4497</a> | Happy Coding! 👨‍💻
 </p>
