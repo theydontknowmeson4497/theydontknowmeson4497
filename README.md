@@ -1,20 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there%20👋&fontSize=80&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=220&section=header&text=Mithun%20Nair&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20CSE%20Data%20Science&descAlignY=62&descSize=18&descFontColor=7fff7f&animation=twinkling" />
 </p>
-
-<h1 align="center">I'm Mithun Nair</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data Analyst)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&lines=Data+Science+%26+CSE+Student+%40+SRM;Python+%7C+Java+%7C+C+%7C+SQL+Developer;AI+%26+ML+Enthusiast;I+code+when+I'm+depressed...;(I+feel+depressed+all+the+time+😅)" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&lines=Data+Science+%26+CSE+Student+%40+SRM;Python+%7C+Java+%7C+C+%7C+SQL+Developer;AI+%26+ML+Enthusiast;I+code+when+I'm+depressed...;(I+feel+depressed+all+the+time+%F0%9F%98%85)" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theydontknowmeson4497&style=for-the-badge&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=theydontknowmeson4497&style=for-the-badge&color=00aa33&label=PROFILE+VIEWS" />
   <a href="https://github.com/theydontknowmeson4497?tab=followers">
-    <img src="https://img.shields.io/github/followers/theydontknowmeson4497?style=for-the-badge&color=blueviolet" />
+    <img src="https://img.shields.io/github/followers/theydontknowmeson4497?style=for-the-badge&color=00aa33&label=FOLLOWERS" />
   </a>
 </p>
 
@@ -69,12 +66,12 @@ I build things when I'm bored. I debug things when I'm sad. I commit at 2AM when
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=theydontknowmeson4497&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theydontknowmeson4497&layout=compact&langs_count=8&theme=material-palenight&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=theydontknowmeson4497&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theydontknowmeson4497&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theydontknowmeson4497&theme=material-palenight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theydontknowmeson4497&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="60%" />
 </p>
 
 ---
@@ -82,7 +79,7 @@ I build things when I'm bored. I debug things when I'm sad. I commit at 2AM when
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=theydontknowmeson4497&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=theydontknowmeson4497&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -90,7 +87,7 @@ I build things when I'm bored. I debug things when I'm sad. I commit at 2AM when
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theydontknowmeson4497&custom_title=Contribution%20Graph&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true&theme=material-palenight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theydontknowmeson4497&custom_title=Contribution%20Graph&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -103,7 +100,9 @@ I build things when I'm bored. I debug things when I'm sad. I commit at 2AM when
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=100&section=footer" />
 </p>
 
-
+<p align="center">
+  ⭐ From <a href="https://github.com/theydontknowmeson4497">theydontknowmeson4497</a> | Happy Coding! 👨‍💻
+</p>
